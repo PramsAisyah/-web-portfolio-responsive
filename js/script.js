@@ -1,4 +1,4 @@
-const txtElement = ['Freelancer', 'Web Developer', 'Graphic Designer'];
+const txtElement = ['IT Support', 'Web Developer'];
 let count = 0;
 let txtIndex = 0;
 let currentTxt = '';
