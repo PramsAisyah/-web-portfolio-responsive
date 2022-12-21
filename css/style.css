@@ -156,19 +156,16 @@ section h3::after {
 	text-align: center;
 }
 .html {
-	width:100%;
+	width:70%;
 }
 .css {
-	width:90%;
+	width:10%;
 }
 .js {
-	width:80%;
-}
-.php {
-	width:95%;
+	width:70%;
 }
 .ps {
-	width:85%;
+	width:50%;
 }
 .col-4 {
 	width:25%;
